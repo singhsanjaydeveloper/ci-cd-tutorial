@@ -5,7 +5,7 @@
 * Last Updated:- 24/04/2020
 * Description:- This is the service class for performing asynchronous HTTP Callouts
 * Contributors:-
-*    1. Singh Sanjay.
+*    1. Singh Sanjay
 */
 public class HTTPCalloutAsyncService {
 
@@ -16,7 +16,7 @@ public class HTTPCalloutAsyncService {
     public static final Integer CONTINUATION_LIMIT = 3;
     public static final String CONTINUATION_STATE = 'Continuation State';
     String continuationState;
-
+    String mychanges;
     /*
     * Getter and Setters - Begin
     */
