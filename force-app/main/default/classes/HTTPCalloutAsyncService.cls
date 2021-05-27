@@ -15,7 +15,7 @@ public class HTTPCalloutAsyncService {
     Integer requestTimeout;
     public static final Integer CONTINUATION_LIMIT = 3;
     public static final String CONTINUATION_STATE = 'Continuation State';
-    String continuationStatess;
+    String continuationStatesss;
     /*
     * Getter and Setters - Begin
     */
